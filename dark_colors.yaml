@@ -1,0 +1,47 @@
+# Nord Theme for colorls
+#
+# Main Colors
+unrecognized_file: '#d08770' # Orange
+recognized_file:   '#d8dee9' # Foreground
+executable_file:   '#8fbcbb' # Green
+dir:               '#b48ead' # Purple
+
+# Link
+dead_link: '#bf616a'         # Red
+link:      '#88c0d0'         # Cyan
+
+# Special Files
+socket:    '#8fbcbb'         # Green
+blockdev:  '#8fbcbb'         # Green
+chardev:   '#8fbcbb'         # Green
+
+# Access Modes
+write:     '#b48ead'         # Pink
+read:      '#b77bc6'         # Purple
+exec:      '#88c0d0'         # Cyan
+no_access: '#bf616a'         # Red
+
+# Age
+hour_old:    '#eceff4'       # Comment - 20% lighter
+day_old:     '#e5e9f0'       # Comment
+no_modifier: '#4c566a'       # Current Line
+
+# File Size
+file_large:  '#bf616a'       # Red
+file_medium: '#d08770'       # Orange
+file_small:  '#a3be8c'       # Green
+
+# Random
+report: '#a3be8c'            # Green
+user:   '#88c0d0'            # Cyan
+tree:   '#4c566a'            # Current Line
+empty:  '#6272a4'            # Comment
+error:  '#bf616a'            # Red
+normal: '#d8dee9'            # Foreground
+
+# Git
+addition:     '#88c0d0'      # Cyan
+modification: '#ebcb8b'      # Yellow
+deletion:     '#bf616a'      # Red
+untracked:    '#d08770'      # Orange
+unchanged:    '#a3be8c'      # Green
